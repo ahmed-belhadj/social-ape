@@ -1,0 +1,9 @@
+
+*.cache
+socialape-client/.firebaserc
+socialape-client/package.json
+socialape-client/src/App.js
+socialape-functions/.firebaserc
+socialape-functions/functions/util/config.js
+socialape-functions/functions/util/dummyData.js
+socialape-functions/functions/util/serviceAccountKey.json
